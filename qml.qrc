@@ -1,0 +1,58 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/ArmoredTank.png</file>
+        <file>image/BrickWall.png</file>
+        <file>image/Bullet.png</file>
+        <file>image/Flash.png</file>
+        <file>image/SpeedTank.png</file>
+        <file>image/steelWall.png</file>
+        <file>image/Tank.png</file>
+        <file>image/Tank_Our.png</file>
+        <file>image/Water.png</file>
+        <file>image/EmptyField.png</file>
+        <file>image/Throne1.png</file>
+        <file>image/Throne2.png</file>
+        <file>image/Throne3.png</file>
+        <file>image/Throne4.png</file>
+        <file>image/Ice.png</file>
+        <file>image/Forest.png</file>
+        <file>SecondScreen.qml</file>
+        <file>image/1 player button.png</file>
+        <file>image/2 player button.png</file>
+        <file>image/construction button.png</file>
+        <file>image/start screen image.png</file>
+        <file>QqqScreen.qml</file>
+        <file>image/pointer.png</file>
+        <file>FirstScreen.qml</file>
+        <file>image/ThroneDestroed.png</file>
+        <file>image/ThroneDestroed1.png</file>
+        <file>image/ThroneDestroed2.png</file>
+        <file>image/ThroneDestroed3.png</file>
+        <file>image/ThroneDestroed4.png</file>
+        <file>ThirdScreen.qml</file>
+        <file>image/Third.png</file>
+        <file>image/navigation_next_item.png</file>
+        <file>image/navigation_previous_item.png</file>
+        <file>image/count tank.png</file>
+        <file>image/life 1pl.png</file>
+        <file>image/life 2pl.png</file>
+        <file>image/game over.png</file>
+        <file>image/armorTank.png</file>
+        <file>image/stage.png</file>
+        <file>TestQml.qml</file>
+        <file>ImageOfObject.qml</file>
+        <file>Bonus.qml</file>
+        <file>image/clock.png</file>
+        <file>image/grenade.png</file>
+        <file>image/gun.png</file>
+        <file>image/helm.png</file>
+        <file>image/life_tank.png</file>
+        <file>image/shovel.png</file>
+        <file>image/star.png</file>
+        <file>image/firstTank.png</file>
+        <file>image/fourTank.png</file>
+        <file>image/secondTank.png</file>
+        <file>image/thirdTank.png</file>
+    </qresource>
+</RCC>
